@@ -1,6 +1,10 @@
 # 🥭 Austin Lindquist
 
-**`Computer Scientist + Designer`**
+**`Software Developer + UX Designer`**
+
+I am an adaptive Computer Scientist seeking an entry level position in Software Engineering and UX Design. I am eager to learn and expand my knowledge of both computer programming and design to become a well-rounded player in a team of equally motivated developers.
+
+---
 
 <!--
 **A-Lindquist/A-Lindquist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
