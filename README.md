@@ -17,7 +17,7 @@ I am an adaptive <em>Computer Scientist</em> seeking an entry level position in 
 <img align="left" alt="HTML" width="30" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
 <img align="left" alt="CSS" width="30" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
 <img align="left" alt="SQL" width="30" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"/>
-<img align="left" alt="Dart" width="30" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg"/>
+<!-- <img align="left" alt="Dart" width="30" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg"/> -->
 <img align="left" alt="Kotlin" width="30" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg"/><br><br>
 
 ### Frameworks & Libraries
@@ -44,12 +44,9 @@ I am an adaptive <em>Computer Scientist</em> seeking an entry level position in 
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on ... UI/UX Design and Research
+- 🌱 I’m currently learning ... Computer Graphics, Artificial Intelligence, Computer Audio Programming
+- 💬 Ask me about ... Job positions!
+- 📫 How to reach me: ... austin.lindquist@gatech.edu
+- ⚡ Fun fact: 
 -->
