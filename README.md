@@ -39,7 +39,7 @@ I am an adaptive <em>Computer Scientist</em> seeking an entry level position in 
 <img align="left" alt="Processing" width="30" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/processing/processing-original.svg"/>
 <img align="left" alt="Unity" width="30" style="padding-right: 10px;" src="https://www.svgrepo.com/show/331626/unity.svg"/>
 <img align="left" alt="Maya" width="30" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maya/maya-original.svg"/>
-<img align="left" alt="Docker" width="30" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg"/>
+<img align="left" alt="Docker" width="30" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg"/><br>
           
 ---
 
