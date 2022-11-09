@@ -4,7 +4,8 @@
 
 I am an adaptive <em>Computer Scientist</em> seeking an entry level position in <b>Software Engineering</b> and <b>UX Design</b>. I am eager to learn and expand my knowledge of both computer programming and design to become a well-rounded player in a team of equally motivated developers.<br><br>
 
-<u><b>Current Courseload:</b></u> Computer Graphics, Artificial Intelligence, Computer Audio Programming, Animation, Interactive Narrative
+<b>Current Courseload:</b> Computer Graphics, Artificial Intelligence, Computer Audio Programming, Animation, Interactive Narrative <br>
+<b>LinkedIn:</b> [Austin Lindquist](https://www.linkedin.com/in/austinlindquist/)
 
 ---
 
