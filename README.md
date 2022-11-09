@@ -9,7 +9,7 @@ I am an adaptive <em>Computer Scientist</em> seeking an entry level position in 
 
 ---
 
-### Languages
+### Programming Languages
 <img align="left" alt="Java" width="30" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="left" alt="C#" width="30" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/>
 <img align="left" alt="Python" width="30" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
@@ -41,16 +41,10 @@ I am an adaptive <em>Computer Scientist</em> seeking an entry level position in 
 <img align="left" alt="Maya" width="30" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maya/maya-original.svg"/>
 <img align="left" alt="Docker" width="30" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg"/>
           
+---
 
+### About Me
+<b>Languages:</b> English (native), Spanish (conversational), Japanese (elementary), Swedish (elementary), Chinese (beginner)
+<b>Eager to Learn:</b> Machine Learning, REST API, Full-stack Development
+<b>Interests:</b> Learning New Tech, Studying Languages, Teaching, Graphic Design, Film & Animation, Playing Guitar 
 
-<!--
-**A-Lindquist/A-Lindquist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ... UI/UX Design and Research
-- 🌱 I’m currently learning ... Computer Graphics, Artificial Intelligence, Computer Audio Programming
-- 💬 Ask me about ... Job positions!
-- 📫 How to reach me: ... austin.lindquist@gatech.edu
-- ⚡ Fun fact: 
--->
