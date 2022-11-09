@@ -25,7 +25,8 @@ I am an adaptive <em>Computer Scientist</em> seeking an entry level position in 
 <img align="left" alt="NodeJS" width="30" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
 <img align="left" alt="SASS" width="30" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"/>
 <img align="left" alt="Material UI" width="30" style="padding-right: 10px;" src="https://cdn.worldvectorlogo.com/logos/material-ui-1.svg"/>
-<img align="left" alt="Framer Motion" width="30" style="padding-right: 10px;" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/framer_logo_icon_169149.png"/><br><br>
+<img align="left" alt="Framer Motion" width="30" style="padding-right: 10px;" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/framer_logo_icon_169149.png"/>
+<img align="left" alt="Framer Motion" width="30" style="padding-right: 10px;" src="https://i.ibb.co/whNwyn7/Framer-Motion.png"/><br><br>
 
 ### Tools
 <img align="left" alt="Visual Studio Code" width="30" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
