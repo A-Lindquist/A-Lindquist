@@ -1,8 +1,10 @@
 # 🥭 Austin Lindquist
 
-**`Software Developer + UX Designer`** **`Student at Georgia Institute of Technology`**
+**`Software Developer + UX Designer`**
 
-I am an adaptive <em>Computer Scientist</em> seeking an entry level position in <b>Software Engineering</b> and <b>UX Design</b>. I am eager to learn and expand my knowledge of both computer programming and design to become a well-rounded player in a team of equally motivated developers.
+I am an adaptive <em>Computer Scientist</em> seeking an entry level position in <b>Software Engineering</b> and <b>UX Design</b>. I am eager to learn and expand my knowledge of both computer programming and design to become a well-rounded player in a team of equally motivated developers.<br><br>
+
+Current Courseload: Computer Graphics, Artificial Intelligence, Computer Audio Programming, Animation, Interactive Narrative
 
 ---
 
