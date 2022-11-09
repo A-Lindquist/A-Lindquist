@@ -1,4 +1,4 @@
-# 🥭 Austin Lindquist
+# 🥭 Austin Lindquist ![team](https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Temp_plate.svg/601px-Temp_plate.svg.png)
 
 **`Software Developer + UI/UX Designer`**
 
