@@ -1,6 +1,6 @@
 # 🥭 Austin Lindquist 
 
-**`Software Developer + UI/UX Designer`** <img align="left" alt="Java" width="30" style="padding-right: 10px;" src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg](https://media-exp1.licdn.com/dms/image/C4E0BAQFuhLQoh5_7yA/company-logo_200_200/0/1640110531895?e=2147483647&v=beta&t=o_QbIosL71IANJXOssQmZwSyoJdobAzUZJ0IJ1Aq9vg)"/>
+**`Software Developer + UI/UX Designer`** <img align="left" alt="Java" width="30" style="padding-right: 10px;" src="https://media-exp1.licdn.com/dms/image/C4E0BAQFuhLQoh5_7yA/company-logo_200_200/0/1640110531895?e=2147483647&v=beta&t=o_QbIosL71IANJXOssQmZwSyoJdobAzUZJ0IJ1Aq9vg"/>
 
 I am an adaptive <em>Computer Scientist</em> seeking an entry level position in <b>Software Engineering</b> and <b>UX Design</b>. I am eager to learn and expand my knowledge of both computer programming and design to become a well-rounded player in a team of equally motivated developers.<br><br>
 
