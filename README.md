@@ -45,6 +45,6 @@ I am an adaptive <em>Computer Scientist</em> seeking an entry level position in 
 
 ### About Me
 📚 <b>Languages:</b> English (native), Spanish (conversational), Japanese (elementary), Swedish (elementary), Chinese (beginner) <br>
-🧠 <b>Eager to Learn:</b> Machine Learning, Kubernetes <br>
+🧠 <b>Eager to Learn:</b> Machine Learning, Kubernetes, App Dev <br>
 🎸 <b>Interests:</b> Learning New Tech, Studying Languages, Teaching, Graphic Design, Film & Animation, Playing Guitar <br>
 
